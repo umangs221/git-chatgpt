@@ -7,3 +7,4 @@ print("master branch development")
 print("feature branch second change")
 >>>>>>> feature
 print("master remote practise")
+print("change made directly on github")
