@@ -8,4 +8,4 @@ print("feature branch second change")
 >>>>>>> feature
 print("master remote practise")
 print("change made directly on github")
-print("local change")
+print("remote divergent change")
